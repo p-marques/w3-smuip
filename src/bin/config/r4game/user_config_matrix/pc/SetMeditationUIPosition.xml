@@ -5,6 +5,8 @@
             <Var id="Enabled" displayName="smuip_Enabled" displayType="TOGGLE"/>
             <Var id="X" displayName="smuip_X" displayType="SLIDER;0;100;100"/>
             <Var id="Y" displayName="smuip_Y" displayType="SLIDER;0;100;100"/>
+            <Var id="HideCloseButton" displayName="smuip_HideCloseButton" displayType="TOGGLE"/>
+            <Var id="Scale" displayName="smuip_Scale" displayType="SLIDER;50;100;50"/>
         </VisibleVars>
     </Group>
 </UserConfig>

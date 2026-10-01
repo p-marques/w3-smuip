@@ -4,3 +4,5 @@ panel_smuip_ModName=Set Meditation UI Position
 option_smuip_Enabled=Enabled
 option_smuip_X=X Position (%)
 option_smuip_Y=Y Position (%)
+option_smuip_HideCloseButton=Hide Close Button
+option_smuip_Scale=Scale (%)
