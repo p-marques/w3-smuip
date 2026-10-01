@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserConfig>
+    <Group id="SMUIP" displayName="Mods.smuip_ModName">
+        <VisibleVars>
+            <Var id="Enabled" displayName="smuip_Enabled" displayType="TOGGLE"/>
+            <Var id="X" displayName="smuip_X" displayType="SLIDER;0;100;100"/>
+            <Var id="Y" displayName="smuip_Y" displayType="SLIDER;0;100;100"/>
+        </VisibleVars>
+    </Group>
+</UserConfig>
